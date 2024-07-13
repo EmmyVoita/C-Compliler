@@ -1,0 +1,17 @@
+int getSum(int a, int b)
+{
+    int c = a + b;
+    write c;
+    return c;
+}
+
+int main()
+{
+    int i = 10;
+    int j = 5;
+    int k = getSum(i, j);
+
+    write k;
+
+    return 0;
+}

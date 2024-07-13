@@ -1,0 +1,17 @@
+
+--- IR Code Start ---
+
+getSum:
+    t3 = t1 + t2
+    t4 = t3 
+    print = t4 (int)
+    Return To Caller
+
+
+main:
+    #ParamSet getSum 
+    #a t1 = 10 
+    #b t2 = 5 
+    Jump getSum 
+    t5 = 15 
+    print = t5 (int)

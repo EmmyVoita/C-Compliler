@@ -1,0 +1,22 @@
+
+int main()
+{
+    int i = 10;
+    int j = 5;
+
+    if(i <= 5)
+    {
+        write i;
+    }
+    else if(i == 4)
+    {
+        write j;
+    }
+    else
+    {
+        int k = 3;
+        write k;
+    }
+
+    return 0;
+}
