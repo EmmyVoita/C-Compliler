@@ -1,4 +1,4 @@
-# CCompliler
+# C-Compliler
 
 # C-- Compiler by Rylan Casanova and Emmy Voita
 
