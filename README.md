@@ -1,5 +1,3 @@
-# C-Compliler
-
 # C-- Compiler by Rylan Casanova and Emmy Voita
 
 **Project Description:**
@@ -11,8 +9,6 @@ Moreover, the compiler generates AST nodes during parsing and modifies them duri
 **For Detailed Outline of the Compiler Design and What Language Features The Compiler Supports:**
 
 - https://www.youtube.com/watch?v=cNlQACMw7k4
-
-
 
 ## Instructions to Run Compiler (on Linux VM):
 1. Download ZIP
